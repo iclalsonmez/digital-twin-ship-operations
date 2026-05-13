@@ -71,25 +71,17 @@ The demo returns:
 - Predicted CO2 emission from the machine learning model
 - Formula-based CO2 emission estimate
 
+
 ## Repository Structure
 
 ```text
 digital-twin-ship-operations/
 │
-├── notebooks/
-│   └── digital_twin_ship_operations.ipynb
-│
-├── data/
-│   └── .gitkeep
-│
-├── outputs/
-│   └── .gitkeep
-│
+├── digital_twin_ship_operations.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-```
 
 ## Dataset
 
