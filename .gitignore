@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+# Project data and outputs
+data/*.xlsx
+data/*.xls
+data/*.csv
+outputs/
+models/
+reports/
+plots/
+
+# Trained model files
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
